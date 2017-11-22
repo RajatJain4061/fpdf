@@ -1,0 +1,14 @@
+{
+    "name": "rajatjain4061/fpdf",
+    "description": "FPDF is a PHP class which allows to generate PDF files with pure PHP., that is to say without using the PDFlib library. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.",
+    "authors": [
+        {
+            "name": "Rajat Jain",
+            "email": "rajatjain4061@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
