@@ -7,7 +7,7 @@
 * Author:  Olivier PLATHEY                                                     *
 *******************************************************************************/
 
-namespace rajatjain4061
+namespace rajatjain4061;
 
 define('FPDF_VERSION','1.81');
 
