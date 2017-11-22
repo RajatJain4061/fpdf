@@ -11,7 +11,9 @@
         }
     ],
     "autoload": {
-        "files": ["fpdf.php"]
+        "psr-4": {
+            "rajatjain4061\\fpdf\\": "src"
+        }
     },
     "require": {
             "php": "^5.5 || ~7.0"
